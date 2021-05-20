@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://coderkhalid.netlify.app](https://coderkhalid.netlify.app)
+- 🔭 I’m currently working on **something cool 😎**
+
+- 🌱 I’m currently learning **something amazing 🔥**
+
+- 👨‍💻 All of my projects are available at [https://coderkhalid.netlify.app](https://coderkhalid.netlify.app/#portfolio)
 
 - 📝 I regularly write articles on [https://ksdevware.com/blogs](https://ksdevware.com/blogs)
 
@@ -15,7 +19,7 @@
 
 - 📫 How to reach me **khalideofficial@gmail.com**
 
-- 📄 Know about my experiences [https://my.indeed.com/p/khalids-a9aptgc](https://my.indeed.com/p/khalids-a9aptgc)
+- 📄 Know about my experiences [Resume](https://my.indeed.com/p/khalids-a9aptgc)
 
 - ⚡ Fun fact **I think I'm crazy**
 
