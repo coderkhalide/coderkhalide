@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
-<h3 align="center">Full-stack Web developer | CEO at KS Devware | Passionate Programmer.</h3>
+<h3 align="center">Full-stack Web developer | CEO at KS Devware | Passionate Programmer | React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **something amazing 🔥**
 
-- 👨‍💻 All of my projects are available at [https://coderkhalid.netlify.app](https://coderkhalid.netlify.app/#portfolio)
+- 👨‍💻 All of my projects are available at [https://khaliddev.com](https://www.khaliddev.com)
 
 - 📝 I regularly write articles on [https://ksdevware.com/blogs](https://ksdevware.com/blogs)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **khalideofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://my.indeed.com/p/khalids-a9aptgc)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T8fUlr4lVXnE2jBVjFaTGuqkezTD_qr9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm crazy**
 
