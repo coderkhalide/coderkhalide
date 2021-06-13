@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
-<h3 align="center">Full-stack Web developer | CEO at KS Devware | Passionate Programmer | React Native Developer</h3>
+<h3 align="center">Full-stack Web developer | CEO at KS Devware | UI/UX Designer | React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
