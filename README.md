@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
-<h3 align="center">Full-stack Web developer | CEO at KS Devware | UI/UX Designer | React Native Developer</h3>
+<h3 align="center">Full-stack Web & Mobile app developer | Founder of KS Devware | UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://ksdevware.com/blogs](https://ksdevware.com/blogs)
 
-- 💬 Ask me about **React, JavaScript, Node JS**
+- 💬 Ask me about **React, JavaScript, Node JS, React native**
 
 - 📫 How to reach me **khalideofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T8fUlr4lVXnE2jBVjFaTGuqkezTD_qr9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UTqFzL8q7q9-pgcPx9tSCoxVxVJxE4Kz/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm crazy**
 
