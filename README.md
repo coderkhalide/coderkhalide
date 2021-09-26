@@ -32,7 +32,7 @@
 <a href="https://fb.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
 <a href="https://instagram.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
 <a href="https://dribbble.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucaxl07qcsizrlbya31qzwba" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/khalidsaifullahKS" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
