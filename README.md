@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **something amazing 🔥**
 
-- 👨‍💻 All of my projects are available at [https://khaliddev.com](https://www.khaliddev.com)
+- 👨‍💻 All of my projects are available at my **portfolio** [https://khaliddev.com](https://www.khaliddev.com)
 
 - 📝 I regularly write articles on [https://ksdevware.com/blogs](https://ksdevware.com/blogs)
 
