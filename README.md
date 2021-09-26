@@ -25,14 +25,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/khalideofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="khalideofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/coderkhalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/coderkhalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14612669" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
-<a href="https://fb.com/coderkhalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://instagram.com/coderkhalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://dribbble.com/coderkhalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucaxl07qcsizrlbya31qzwba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/channel/ucaxl07qcsizrlbya31qzwba" height="30" width="40" /></a>
+<a href="https://codepen.io/khalideofficial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="khalideofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14612669" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
+<a href="https://fb.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://instagram.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://dribbble.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucaxl07qcsizrlbya31qzwba" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
