@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
-<h3 align="center">Full-stack Web & Mobile app developer | Founder of KS Devware | UI/UX Designer</h3>
+<h3 align="center">Full-stack Web & Mobile app developer | Founder of [KS Devware](http://ksdevware.com) | Co-founder of [Arrtal](https://arrtal.com) | UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
