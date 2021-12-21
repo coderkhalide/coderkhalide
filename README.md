@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Khalid Saifullah</h1>
 <h3 align="center">Full-stack Web & Mobile app developer | Founder of KS Devware | Co-founder of Arrtal | UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
@@ -22,6 +22,8 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jI61RQ1OE812tUINMuLwkAZGHm0aF7a0/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm crazy**
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
