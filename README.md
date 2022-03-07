@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkhalide&show_icons=true&locale=en" alt="coderkhalide" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkhalide&" alt="coderkhalide" /></p>
+
+<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coderkhalide&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
