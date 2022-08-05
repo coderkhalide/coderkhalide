@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **khalideofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jI61RQ1OE812tUINMuLwkAZGHm0aF7a0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1APRM9vrs3bSMCw41v4UHBuLj1xRmBdJ0NLxxpAoWlrY/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I'm crazy**
 
