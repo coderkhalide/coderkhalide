@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1APRM9vrs3bSMCw41v4UHBuLj1xRmBdJ0NLxxpAoWlrY/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I'm crazy**
+- ⚡ Fun fact **I think I'm cool**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
