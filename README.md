@@ -1,11 +1,11 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Khalid Saifullah</h1>
-<h3 align="center">Full-stack Web & Mobile app developer | Startup Founder | UI/UX Designer</h3>
+<h3 align="center">Full-stack Web & Mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderkhalide" alt="coderkhalide" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p> -->
 
 - 🔭 I’m currently working on **something cool 😎**
 
@@ -27,13 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/khalideofficial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="khalideofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
+<a href="https://twitter.com/khalid_nome" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14612669" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
-<a href="https://fb.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://instagram.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://dribbble.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/khalidsaifullahKS" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
 </p>
 
@@ -44,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkhalide&show_icons=true&locale=en" alt="coderkhalide" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkhalide&" alt="coderkhalide" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coderkhalide" alt="GitHub Streak" /></a>
